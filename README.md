@@ -1,4 +1,4 @@
-minesweeper
+# minesweeper
 
 minesweeper is GUI implementation of Minesweeper in Go
 
